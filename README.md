@@ -1,6 +1,6 @@
 # Hi there, I'm Lilia 👋
 
-My name is Lilia BEN BACCAR, I'm a MS Data Science student at ENSAE in Paris. I'm also graduated ESILV in Computer Science, Data and Artificial Intelligence.
+My name is Lilia BEN BACCAR, I'm a MS Data Science student at ENSAE in Paris. I'm also graduated from ESILV in Computer Science, Data and Artificial Intelligence.
 
 * 🔭 I’m currently working on several projets:
   * Neural Style Transfer project using CNN
