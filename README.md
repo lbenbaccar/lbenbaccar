@@ -4,7 +4,6 @@ My name is Lilia BEN BACCAR, I'm a Data Science student at ENSAE in Paris. I'm a
 
 * 🔭 I’m currently working on several projets:
   * Neural Style Transfer project using CNN
-  * Jigsaw x Google Toxic Comments Classification challenge
   * NeurIPS, ICLR, ICML... papers review in Reinforcement Learning
 * 🤔 Currently, I’m looking for an internship or full time position in Machine Learning
 * 📫 How to reach me: https://www.linkedin.com/in/liliabenbaccar/
