@@ -3,8 +3,9 @@
 My name is Lilia BEN BACCAR, I'm a Data Science student at ENSAE in Paris. I'm also graduated from ESILV in Computer Science, Data and Artificial Intelligence.
 
 * 🔭 I’m currently working on several projets:
-  * Neural Style Transfer project using CNN
-  * NeurIPS, ICLR, ICML... papers review in Reinforcement Learning
+  * Deep Reinforcement Learning with Double Q-learning
+  * Comparative study of the performance of decision tree boosting and random forests
+  * A distributed data processing project
 * 🤔 Currently, I’m looking for an internship or full time position in Machine Learning
 * 📫 How to reach me: https://www.linkedin.com/in/liliabenbaccar/
 
