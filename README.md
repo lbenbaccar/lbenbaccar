@@ -8,3 +8,5 @@ My name is Lilia BEN BACCAR, I'm a Data Science student at ENSAE in Paris. I'm a
 * 📫 How to reach me: https://www.linkedin.com/in/liliabenbaccar/
 
 [![Lilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbenbaccar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lilia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbenbaccar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
