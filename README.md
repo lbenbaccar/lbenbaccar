@@ -2,8 +2,7 @@
 
 My name is Lilia BEN BACCAR, I'm a Data Science student at ENSAE in Paris. I'm also graduated from ESILV in Computer Science, Data and Artificial Intelligence.
 
-* 🔭 I’m currently working on several projets:
-  * A distributed data processing project
+[comment]: <> * 🔭 I’m currently working on several projets:
 * 🤔 Currently, I’m looking for an internship or full time position in Machine Learning
 * 📫 How to reach me: https://www.linkedin.com/in/liliabenbaccar/
 
